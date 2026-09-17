@@ -1,2 +1,0 @@
-# Bootstrap-Prak.Mulmed
-Tugas
